@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-responsive-four-card-feature-section-using-sass-QpxDrznAdi)
+- Live Site URL: [Add live site URL here](https://rafaeldevvv.github.io/Four-Card-Feature/)
 
 ## My process
 
