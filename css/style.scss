@@ -8,5 +8,44 @@
 
 body {
    font-family: "Poppins", Arial, sans-serif;
+   min-height: 100vh;
 }
 
+#wrapper {
+   max-width: 1400px;
+   margin: 0 auto;
+   padding: 4em 1em;
+}
+
+.light-text {
+   color: hsl(229, 6%, 66%);
+}
+
+#top {
+   text-align: center;
+
+   h1 {
+      font-size: 1.6em;
+
+      span:first-child {
+         font-weight: 200;
+      }
+
+      span {
+         display: block;
+      }
+   }  
+
+   p {
+      max-width: 500px;
+      margin: .8em auto 0;
+   }
+}
+
+@media (min-width: 576px) {
+   #top {
+      h1 {
+         font-size: 2em;   
+      }
+   }
+}
