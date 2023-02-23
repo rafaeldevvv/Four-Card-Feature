@@ -4,6 +4,7 @@ $orange: hsl(34, 97%, 64%);
 $cyan: hsl(180, 62%, 55%); 
 $red:  hsl(0, 78%, 62%); 
 $blue: hsl(212, 86%, 64%);
+$very-dark-blue: hsl(234, 12%, 34%);
 
 * {
    padding: 0;
@@ -90,5 +91,16 @@ header {
 #cards {
    .card {
       margin-top: 2em;
+   }
+}
+
+footer {
+   text-align: center;
+   background: $very-dark-blue;
+   color: white;
+   padding: 1em;
+
+   a {
+      color: $orange;
    }
 }

@@ -79,4 +79,14 @@ header p {
 
 #cards .card {
   margin-top: 2em;
+}
+
+footer {
+  text-align: center;
+  background: hsl(234deg, 12%, 34%);
+  color: white;
+  padding: 1em;
+}
+footer a {
+  color: hsl(34deg, 97%, 64%);
 }/*# sourceMappingURL=style.css.map */
